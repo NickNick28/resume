@@ -118,7 +118,7 @@ class ResumeHome extends StatelessWidget {
                     'ประถมศึกษา:',
                     style: TextStyle(fontWeight: FontWeight.bold),
                   ),
-                  Text('โรงเรียน: วันไผ่เงินโชตนาราม'),
+                  Text('โรงเรียน: วัดไผ่เงินโชตนาราม'),
                   Text('ปีที่จบ: 2559'),
 
                   SizedBox(height: 10),
